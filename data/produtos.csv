@@ -1,0 +1,13 @@
+codigo,produto,categoria,unidade,custo_unitario,lead_time_dias,fornecedor,estoque_atual
+P01,Pão de hambúrguer,Panificação,un,0.9,1,Padaria Central,300
+P02,Hambúrguer bovino 120g,Carnes,un,3.2,3,Frigorífico Boi Bom,380
+P03,Queijo mussarela fatiado,Laticínios,kg,42.0,2,Laticínios Serra,12
+P04,Presunto fatiado,Frios,kg,32.0,2,Laticínios Serra,12
+P05,Bacon fatiado,Carnes,kg,48.0,3,Frigorífico Boi Bom,3
+P06,Alface americana,Hortifrúti,pé,3.5,1,Hortifrúti Verde,25
+P07,Tomate,Hortifrúti,kg,7.0,1,Hortifrúti Verde,3
+P08,Batata pré-frita congelada,Congelados,kg,14.0,4,Distribuidora Frios SP,60
+P09,Óleo de soja,Mercearia,L,8.5,5,Atacadão Alimentos,25
+P10,Refrigerante lata 350ml,Bebidas,un,2.8,4,Distribuidora Bebidas,280
+P11,Suco natural (polpa),Bebidas,un,4.5,3,Polpas Brasil,45
+P12,Embalagem para lanche,Descartáveis,un,0.35,7,Embalagens Pack,900
