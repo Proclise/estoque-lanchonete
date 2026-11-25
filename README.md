@@ -106,4 +106,4 @@ python src/criar_planilha.py    # gera a planilha Excel
 Python · Pandas · NumPy · SciPy · Matplotlib · OpenPyXL · Excel
 
 ---
-Feito por **[Seu Nome]** · [LinkedIn](https://linkedin.com/in/seu-perfil)
+Feito por **[Proclise](https://github.com/Proclise)** · [LinkedIn](https://linkedin.com/in/seu-perfil) <!-- troque pelo link do seu LinkedIn -->
